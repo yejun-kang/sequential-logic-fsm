@@ -1,13 +1,13 @@
 # Sequential Logic & Finite State Machines Fundamentals
 
-Week 2 Verliog/SystemVerilog sequential logic: Flip flops and FSMs. More HDLBits and Verilog/SystemVerilog and Verilator testbench proficiency.
+Week 2 Verliog/SystemVerilog sequential logic: Flip flops and FSMs. More HDLBits and Verilog/SystemVerilog and testbench proficiency with SVA and Verilator.
 
 ## Contents
 
 | Module | Description | Testbench |
 |---|---|---|
 | `traffic_light_fsm` | 4-state automatic traffic light FSM | `tb_traffic_light_fsm.sv` |
-| `vending_machine_fsm` | 4-state FSM with conditional state changes | `tb_vending_machine_fsm.sv` (SVA Assert Verification)|
+| `vending_machine_fsm` | 4-state FSM with conditional state changes and SVA | `tb_vending_machine_fsm.sv` (SVA Assert Verification)|
 
 ## Knowledge Gained
 More familiarity with Verilog/SystemVerilog with exploration of sequential logic through HDLBits.
