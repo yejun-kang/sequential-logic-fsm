@@ -8,7 +8,6 @@ Week 2 Verliog/SystemVerilog sequential logic: Flip flops and FSMs. More HDLBits
 |---|---|---|
 | `traffic_light_fsm` | 4-state automatic traffic light FSM | `tb_traffic_light_fsm.sv` |
 | `vending_machine_fsm` | 4-state FSM with conditional state changes | `tb_vending_machine_fsm.sv` |
-(Verilator) |
 
 ## Waveform ##
 ![ALU Calculator Waveform](docs/alu_calc_8func_waveform.png)
