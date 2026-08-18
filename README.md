@@ -1,4 +1,4 @@
-# Sequential Logic & Finite State Machines Fundamentals
+# Sequential Logic & Finite State Machines Fundamentals (SVA)
 
 Week 2 Verliog/SystemVerilog sequential logic: Flip flops and FSMs. More HDLBits and Verilog/SystemVerilog and testbench proficiency with SVA and Verilator.
 
