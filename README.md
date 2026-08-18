@@ -12,6 +12,7 @@ Week 2 Verliog/SystemVerilog sequential logic: Flip flops and FSMs. More HDLBits
 ## Knowledge Gained
 More familiarity with Verilog/SystemVerilog with exploration of sequential logic through HDLBits.
 Gained Verilator experience writing testbench files and deploying new techniques with SystemVerilog Assert statements.
+Two flip-flops acting like a double-door airlock system for spaceships.
 
 ## Known Limitations
 Basic form and knowledge of FSMs but will eventually scale to advanced FPGA projects and a full RISC-V CPU.
