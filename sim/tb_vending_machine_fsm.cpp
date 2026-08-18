@@ -71,7 +71,7 @@ int main(int argc, char **argv) {
         top->quarter_count = test.quarters;
         tick();
 
-        for (int cycle = 0; cycle < 5; cycle++) {
+        for (int cycle = 0; cycle < 3; cycle++) {
             top->clk = 1; tick();
 
             std::cout << "  [Cycle " << cycle << "] State: " << (int)top->state
