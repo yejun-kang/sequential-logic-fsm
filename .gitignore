@@ -2,5 +2,4 @@ obj_dir/
 *.vcd
 *.out
 *.vvp
-sim
 .DS_Store
